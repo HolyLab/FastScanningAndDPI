@@ -1,4 +1,4 @@
-# FastScanningAndMCIS
+# FastScanningAndDPI
 Directory of code for OCPI fast scanning / MCIS publication
 
 This repository contains no code.  It is only meant as a directory to the various software components used for the work published in [insert here].
@@ -15,6 +15,9 @@ This repository contains no code.  It is only meant as a directory to the variou
 
 ### Calibrating image timings
 [EmpiricalTiming.jl](https://github.com/HolyLab/EmpiricalTiming.jl)    Julia package for generating and analyzing recordings to calibrate image timing.
+
+### Extracting Point Spread Functions from bead images
+[ExtractPSF.jl](https://github.com/HolyLab/ExtractPSF.jl)          Contains routines for locating beads and fitting Gaussian PSFs to bead images
 
 ### Aligning and stitching images acquired with Multi Camera Image Sharing (MCIS)
 [TeamedImaging.jl](https://github.com/HolyLab/TeamedImaging.jl)      (Currently limited to dual-camera MCIS systems)
