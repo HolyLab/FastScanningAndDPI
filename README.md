@@ -14,7 +14,7 @@ This repository contains no code.  It is only meant as a directory to the variou
 [PiezoSerial.jl](https://github.com/HolyLab/PiezoSerial.jl)        Serial interface to the Piezosystem Jena 30DV300 amplifier.
 
 ### Calibrating image timings
-[EmpiricalTiming.jl](https://github.com/HolyLab/EmpiricalTiming.jl)    Julia package for generating and analyzing recordings to calibrate image timing.
+[FastScanning.jl](https://github.com/HolyLab/FastScanning.jl)    Julia package for generating and analyzing recordings to calibrate image timing during fast 3D scans.
 
 ### Extracting Point Spread Functions from bead images
 [ExtractPSF.jl](https://github.com/HolyLab/ExtractPSF.jl)          Contains routines for locating beads and fitting Gaussian PSFs to bead images
