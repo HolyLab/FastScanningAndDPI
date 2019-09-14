@@ -1,5 +1,5 @@
 # FastScanningAndDPI
-Directory of code for OCPI fast scanning / MCIS publication
+Directory of code for OCPI fast scanning / DPI publication
 
 This repository contains no code.  It is only meant as a directory to the various software components used for the work published in [insert here].
 
