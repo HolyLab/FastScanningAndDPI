@@ -19,8 +19,8 @@ This repository contains no code.  It is only meant as a directory to the variou
 ### Extracting Point Spread Functions from bead images
 [ExtractPSF.jl](https://github.com/HolyLab/ExtractPSF.jl)          Contains routines for locating beads and fitting Gaussian PSFs to bead images
 
-### Aligning and stitching images acquired with Multi Camera Image Sharing (MCIS)
-[TeamedImaging.jl](https://github.com/HolyLab/TeamedImaging.jl)      (Currently limited to dual-camera MCIS systems)
+### Aligning and stitching images acquired with Distributed Planar Imaging (DPI)
+[StitchDPI.jl](https://github.com/HolyLab/StitchDPI.jl)      (Currently limited to dual-camera DPI systems)
 
 ### "Lazy" temporal interpolation of stacks
 [ImageInterpLast.jl](https://github.com/HolyLab/ImageInterpLast.jl)
