@@ -1,7 +1,7 @@
 # FastScanningAndDPI
 Directory of code for OCPI fast scanning / DPI publication
 
-This repository contains no code.  It is only meant as a directory to the various software components used for the work published in [insert here].
+This repository contains no code.  It is only meant as a directory to the various software components used for the work published in *Fast objective coupled planar illumination microscopy*, Cody J. Greer and Timothy E. Holy, *Nature Communications* 2019. ([link](https://rdcu.be/bSKQU)).
 
 ### Microscope control
 [Imagine](https://github.com/HolyLab/Imagine)               C++ software for making recordings with the microscope.  Qt-based GUI. 
